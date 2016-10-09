@@ -44,4 +44,5 @@ article p:first-child {
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
 }
