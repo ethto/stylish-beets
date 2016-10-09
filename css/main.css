@@ -41,3 +41,7 @@ article p:first-child {
   font-family: "PT Serif", serif;
   font-weight: bold;
 }
+
+a:hover {
+  color: #3f1622;
+}
