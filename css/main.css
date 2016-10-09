@@ -1,6 +1,4 @@
 html {
-  font-family: "PT Sans", sans-serif;
-  font-family: "PT Serif", serif;
   line-height: 1.5;
 }
 
@@ -10,4 +8,36 @@ body {
 
 h1 {
   color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #8f2440;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+article p:first-child {
+  font-family: "PT Serif", serif;
+  font-weight: bold;
 }
