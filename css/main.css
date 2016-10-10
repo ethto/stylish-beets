@@ -62,4 +62,9 @@ ul {
 
 blockquote {
   font-style: italic;
+  font-size: 1.5rem;
+}
+
+.strong {
+  font-weight: normal;
 }
