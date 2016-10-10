@@ -72,3 +72,11 @@ blockquote {
 footer cite {
   font-size: 0.9rem;
 }
+
+.serving-size {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
