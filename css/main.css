@@ -37,7 +37,7 @@ img {
   width: 100%;
 }
 
-article p:first-child {
+article p:nth-child(2) {
   font-family: "PT Serif", serif;
   font-weight: bold;
 }
@@ -58,4 +58,8 @@ ul {
 
 .common-varieties {
   list-style-type: lower-greek;
+}
+
+blockquote {
+  font-style: italic;
 }
