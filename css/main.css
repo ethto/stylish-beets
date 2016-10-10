@@ -54,6 +54,7 @@ h2 {
 
 ul {
   list-style-type: circle;
+  font-size: 0.8rem;
 }
 
 .common-varieties {
@@ -79,4 +80,8 @@ footer cite {
 
 dt {
   font-weight: bold;
+}
+
+footer a {
+  font-size: 0.8rem;
 }
