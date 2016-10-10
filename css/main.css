@@ -68,3 +68,7 @@ blockquote {
 .strong {
   font-weight: normal;
 }
+
+footer cite {
+  font-size: 0.9rem;
+}
